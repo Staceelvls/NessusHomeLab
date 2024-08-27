@@ -35,3 +35,14 @@ I created a VirtualBox setup to scan for vulnerabilities and made sure my host c
  
 <h2><img src="santemplaltes.JPG"</img></h2>
 <h2><img src="basicscanfillout.JPG"</img></h2>
+
+<h2>Scan Results</h2>
+
+<h2><img src="images/scanresuls.JPG"</img></h2>
+
+The results showed 5 info vulnerabilites 
+
+- This type of result can provide information about your system or network. It’s not a security threat, but it helps you get a better understanding and spot things that could be improved.
+
+
+
