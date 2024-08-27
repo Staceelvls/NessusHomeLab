@@ -26,3 +26,12 @@ I created a VirtualBox setup to scan for vulnerabilities and made sure my host c
 </br>
 <h2>Verified Communication</h2>
 <h2><img src="pinghost.JPG"</img></h2><h2><img src="pingonvm.JPG"</img></h2>
+
+<h2>Scan Templates</h2>
+
+- Selected basic scan
+
+ Using the VM IP address as the target
+ 
+<h2><img src="santemplaltes.JPG"</img></h2>
+<h2><img src="basicscanfillout.JPG"</img></h2>
