@@ -1,4 +1,4 @@
-<h1><img src="NessusScanner.png"</img></h1>
+<h1><img src="images/NessusScanner.png"</img></h1>
 <h2>Description</h2>
 I set up a home lab using Nessus to gain hands-on experience with vulnerability scanning. In this lab, I scanned a VirtualBox environment and an outdated application to identify potential security weaknesses.
 </br>
