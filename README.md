@@ -10,22 +10,22 @@ Nessus is a tool that scans networks and devices to find security weaknesses, li
 <h2>Utilities Used</h2>
 
 - <b>Virtual Box</b>
-<h2><img src="VMpic.JPG"</img></h2>
+<h2><img src="images/VMpic.JPG"</img></h2>
 
 - <b>Nessus Vulnerability Scanner</b>
 
-<h2><img src="nessint.JPG"</img></h2>
+<h2><img src="images/nessint.JPG"</img></h2>
 
 - <b>Firefox web browser</b>
 
-<h2><img src="firefoxolderversionpage.JPG"</img></h2>
+<h2><img src="images/firefoxolderversionpage.JPG"</img></h2>
 
 <h2>Project walk-through</h2>
 I created a VirtualBox setup to scan for vulnerabilities and made sure my host computer could communicate with the VM by using PowerShell to ping its IP address. After setting up the VM, I downloaded an outdated Firefox browser. Then, I used Nessus to scan the virtual machine, which let me see different vulnerability levels. This gave me some great hands-on experience with spotting security issues.
 </br>
 </br>
 <h2>Verified Communication</h2>
-<h2><img src="pinghost.JPG"</img></h2><h2><img src="pingonvm.JPG"</img></h2>
+<h2><img src="images/pinghost.JPG"</img></h2><h2><img src="images/pingonvm.JPG"</img></h2>
 
 <h2>Scan Templates</h2>
 
@@ -33,8 +33,8 @@ I created a VirtualBox setup to scan for vulnerabilities and made sure my host c
 
  Using the VM IP address as the target
  
-<h2><img src="santemplaltes.JPG"</img></h2>
-<h2><img src="basicscanfillout.JPG"</img></h2>
+<h2><img src="images/santemplaltes.JPG"</img></h2>
+<h2><img src="images/basicscanfillout.JPG"</img></h2>
 
 <h2>Scan Results</h2>
 
