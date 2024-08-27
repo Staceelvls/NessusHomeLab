@@ -44,5 +44,15 @@ The results showed 5 info vulnerabilites
 
 - This type of result can provide information about your system or network. It’s not a security threat, but it helps you get a better understanding and spot things that could be improved.
 
+<h2>Firefox scan results</h2>
 
+<h2><img src="images/firefoxsccanoverview.JPG"</img></h2>
+<h2><img src="images/firefoxscan1.JPG"</img></h2>
+<h2><img src="images/firefoxscan2.JPG"</img></h2>
 
+Because the web browser is outdated, it has quite a few vulnerabilities.
+You can remediate these vulnerabilites by simply downloading the most up to date version of the browser.
+
+<h2>Goal</h2>
+
+My goal was to gain some hands-on experience with a vulnerability scanner to build practical skills that can be directly applied in IT roles. I did this by running two different scans to check out a variety of vulnerabilities.
