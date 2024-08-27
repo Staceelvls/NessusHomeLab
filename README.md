@@ -10,8 +10,15 @@ Nessus is a tool that scans networks and devices to find security weaknesses, li
 <h2>Utilities Used</h2>
 
 - <b>Virtual Box</b>
+<h2><img src="VMpic.JPG"</img></h2>
+
 - <b>Nessus Vulnerability Scanner</b>
+
+<h2><img src="nessint.JPG"</img></h2>
+
 - <b>Firefox web browser</b>
+
+<h2><img src="firefoxolderversionpage.JPG"</img></h2>
 
 <h2>Project walk-through</h2>
 I created a VirtualBox setup to scan for vulnerabilities and made sure my host computer could communicate with the VM by using PowerShell to ping its IP address. After setting up the VM, I downloaded an outdated Firefox browser. Then, I used Nessus to scan the virtual machine, which let me see different vulnerability levels. This gave me some great hands-on experience with spotting security issues.
